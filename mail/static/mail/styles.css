@@ -1,0 +1,14 @@
+textarea {
+    min-height: 400px;
+}
+
+.read{
+    background-color: white;
+}
+
+.unread{
+    background-color: gainsboro;
+}
+.border-style{
+    border: 1px solid black;
+}
